@@ -2,7 +2,7 @@ package com.yi;
 
 public class Person {
     private String name;
-    private int ages;
+    private int ages水水水水;
     private int age;
     private int age1;
     private int age2;
